@@ -23,6 +23,9 @@ This repository contains five project tasks that explore concepts related to ima
 5. **Task 5: Image Viewer**  
    A general-purpose medical image viewer supporting various image formats and basic manipulation tools.
 
+6. **Midterm Task**
+   A creative task to propose a revolutionary idea that breaks one of the established laws of physics, showcasing its potential to transform medical imaging, accompanied by a one-page professional proposal and a 2-minute demonstration video.
+
 ---
 
 ## 🛠️ Technologies Used

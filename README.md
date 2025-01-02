@@ -48,11 +48,15 @@ This repository contains five project tasks that explore concepts related to ima
   - User-friendly interface inspired by professional tools like RadiAnt and MicroDicom.
     
 6. ### **Task 6: Image Viewer**  
-   **Objective**: Create a tool to view and manipulate medical images.  
+   **Objective**:Create a professional-grade tool for viewing and manipulating medical images.   
 - **Features**:  
   - Zooming and panning capabilities.  
-  - Contrast enhancement using CLAHE. 
-
+ - **Contrast Enhancement**:  
+    - Implemented **CLAHE (Contrast Limited Adaptive Histogram Equalization)** for improving image contrast.  
+  - **Interpolation Methods for Resizing**:  
+    - Nearest-Neighbor, Bilinear, and Cubic interpolation techniques for resizing images.  
+  - **Histogram Visualization**:  
+    - Display and analyze the intensity distribution of medical images for better insight.  
 
 ---
 

@@ -40,7 +40,7 @@ This repository contains five project tasks that explore concepts related to ima
   - Deliverables included:  
     - A **one-page professional proposal**.  
     - A **2-minute demonstration video**.
-    - 
+     
 5. ### **Task 5: DICOM Viewer**  
    **Objective**: Develop a professional-grade viewer for DICOM files.  
 - **Features**:  

@@ -60,9 +60,8 @@ This repository contains five project tasks that explore concepts related to ima
 ## 📅 Tasks Workflow and Timelines
 
  The following diagram outlines the workflow and timeline for completing the tasks in this course:
+![Project Workflow and Timeline](./assets/workflow_digram.jpg)
 
-
- 
 ---
 
 ## 🛠️ Technologies Used
@@ -94,3 +93,15 @@ This course introduces key concepts in imaging and its application to anatomical
 - **Rowaida Mohamed**  
 - **Yomna Sabry**
 
+  ---
+
+## 📬 Contact  
+For questions or collaborations, feel free to reach out to any of the team members:
+
+- **👤 [Abdullah Gamil|LinkedIn](https://www.linkedin.com/in/abdullah-gamil05?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVsr5sdzWRAG%2FPP5%2B2pmG%2Bg%3D%3D)**     
+- **👤 [Mohamed Badawy|LinkedIn](https://www.linkedin.com/in/mohamed-badawy-843440316?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsRbvtQMySney%2Fop38P5skQ%3D%3D)**  
+- **👤 [Rowaida Mohamed|LinkedIn](https://www.linkedin.com/in/rowida-mohamed-262a8130a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGGuoAuQ9S9iZg3V5cbZSdw%3D%3D)**  
+- **👤 [Yomna Sabry|LinkedIn](https://www.linkedin.com/in/yomna-sabry-96037b201/)**  
+
+
+  

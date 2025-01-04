@@ -10,7 +10,7 @@ This repository contains a collection of tasks completed as part of the course "
 
 This repository contains five project tasks that explore concepts related to imaging and anatomy. Each task is organized in a dedicated folder for clarity and accessibility.
 
-1. ###**Task 1: MultiPlanar Reconstruction (MPR)**  
+1. ### **Task 1: MultiPlanar Reconstruction (MPR)**  
 - **Objective**: Reconstruct medical images in different planes (axial, sagittal, and coronal).  
 - **Features**:  
   - Interactive slicing through medical image stacks.  
@@ -18,8 +18,7 @@ This repository contains five project tasks that explore concepts related to ima
      
 2. ### **Task 2: AI on Images**  
 - **Subtask 1**: **Organ Classification in Medical Images**  
-  - Developed a machine learning model to classify main organs (heart, brain, liver, limbs).  
-  - Pretrained YOLO AI used for efficient processing.  
+  - Developed a machine learning model to classify main organs (heart, brain, liver, limbs).    
 - **Subtask 2**: **Football Player Tracking & Heatmap Analysis**  
   - Applied pretrained YOLO AI for player tracking in match videos.  
   - Generated movement heatmaps for individual players.
@@ -41,7 +40,7 @@ This repository contains five project tasks that explore concepts related to ima
   - Deliverables included:  
     - A **one-page professional proposal**.  
     - A **2-minute demonstration video**.
-    - 
+     
 5. ### **Task 5: DICOM Viewer**  
    **Objective**: Develop a professional-grade viewer for DICOM files.  
 - **Features**:  
@@ -49,11 +48,15 @@ This repository contains five project tasks that explore concepts related to ima
   - User-friendly interface inspired by professional tools like RadiAnt and MicroDicom.
     
 6. ### **Task 6: Image Viewer**  
-   **Objective**: Create a tool to view and manipulate medical images.  
+   **Objective**:Create a professional-grade tool for viewing and manipulating medical images.   
 - **Features**:  
   - Zooming and panning capabilities.  
-  - Contrast enhancement using CLAHE. 
-
+ - **Contrast Enhancement**:  
+    - Implemented **CLAHE (Contrast Limited Adaptive Histogram Equalization)** for improving image contrast.  
+  - **Interpolation Methods for Resizing**:  
+    - Nearest-Neighbor, Bilinear, and Cubic interpolation techniques for resizing images.  
+  - **Histogram Visualization**:  
+    - Display and analyze the intensity distribution of medical images for better insight.  
 
 ---
 
@@ -79,9 +82,11 @@ This repository contains five project tasks that explore concepts related to ima
 
 ## 📖 About the Course
 
-- **Course Name**: Intro to Imaging and Image-Based Anatomy   
-- **Institution**: Faculty of Engineering, Cairo University, Department of Systems&Biomedical Engineerimg  
-
+- **Course Title:** Introduction to Imaging and Image-Based Anatomy  
+- **Institution:** Faculty of Engineering, Cairo University  
+- **Department:** Systems and Biomedical Engineering 
+- **Supervised By:** Prof. [Tamer Basha] & Prof. [Aliaa Rehan] 
+ 
 This course introduces key concepts in imaging and its application to anatomical studies, providing hands-on experience through project-based learning.
 
 ---

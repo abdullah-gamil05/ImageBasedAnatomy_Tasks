@@ -7,7 +7,8 @@ This project is a **Medical Image Multi-Viewer** tool designed to visualize medi
 ## Features
 
 - **Multi-Planar Viewing**:
-  - Visualize medical images in axial, coronal, and sagittal planes.
+  - Visualize medical images in axial, coronal, and sagittal planes.  ![Loading Animation](https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task1_MPR/results/demo.gif)
+
   - Slice navigation using intuitive sliders.
 
 - **Brightness and Contrast Adjustments**:
@@ -90,14 +91,14 @@ This project is a **Medical Image Multi-Viewer** tool designed to visualize medi
 ## Example Views
 
 ### **Axial View**
-<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/assets/prediction1.png" alt="Result 1" width="600" />
-
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task1_MPR/results/axial_view.png" alt="Axial View" width="400" height="300" />
 
 ### **Coronal View**
-<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/assets/prediction1.png" alt="Result 1" width="600" />
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task1_MPR/results/coronal_view.png" alt="Coronal View" width="400" height="300" />
 
 ### **Sagittal View**
-<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/assets/prediction1.png" alt="Result 1" width="600" />
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task1_MPR/results/sagittal_view.png" alt="Sagittal View" width="400" height="300" />
+
 
 ---
 

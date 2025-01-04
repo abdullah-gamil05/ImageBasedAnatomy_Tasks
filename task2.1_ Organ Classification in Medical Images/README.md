@@ -2,16 +2,16 @@
 
 ## Overview
 
-This task focuses on the development and deployment of an **AI model** capable of classifying medical images into categories of key organs such as the **heart**, **brain**, **liver**, and **limbs**. The system leverages deep learning techniques for accurate predictions and includes a user-friendly GUI for interaction.
+This task focuses on the development and deployment of an **AI model** capable of classifying medical images into categories of key organs such as the **breast**, **brain**, **kidney**, and **lungs**. The system leverages deep learning techniques for accurate predictions and includes a user-friendly GUI for interaction.
 
-The project integrates a pre-trained model for feature extraction and fine-tunes it on a custom dataset of medical images.
+The project Uses transfer learning with VGG16, the model achieves robust performance with an organized dataset and effective preprocessing.
 
 ---
 
 ## Features
 
 ### Model Training and Evaluation
-- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN (e.g., ResNet, VGG) for feature extraction.
+- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN ( VGG) for feature extraction.
 - **Fine-tuning**: Adapts the model to medical image classification.
 - **Performance Metrics**: Provides accuracy, precision, recall, and F1 score for evaluation.
 
@@ -35,6 +35,12 @@ The project integrates a pre-trained model for feature extraction and fine-tunes
   - `Pillow`
   - `PyQt5`
 
+### How to Run
+1. Clone the repository:
+
+```bash
+git clone https://github.com/abdullah-gamil05/task2.1_Organ Classification in Medical Images.git
+```
 ---
 
 ## Application Interface
@@ -53,11 +59,10 @@ The project integrates a pre-trained model for feature extraction and fine-tunes
 
 ### Model Architecture
 
-- **Base Model**: Utilizes a pre-trained convolutional neural network (e.g., ResNet50 or EfficientNet).
-- **Classifier Head**:
-  - Fully connected layers for classification.
-  - Output layer with softmax activation for multi-class classification.
-
+  - Uses VGG16 pre-trained on ImageNet for feature extraction.
+  - Adapts grayscale images to RGB for compatibility with VGG16.
+  - Includes additional Dense layers for classification.
+  - 
 ### Dataset
 
 - Images categorized into organ types (e.g., heart, brain, liver, limbs).
@@ -88,5 +93,14 @@ The project integrates a pre-trained model for feature extraction and fine-tunes
 - Extend support to additional organ categories.
 - Integrate explainability tools like Grad-CAM for model interpretability.
 - Automate dataset preprocessing and augmentation.
+
+ ## Acknowledgements
+- **Datasets**:
+  - Brain Tumor MRI Dataset
+  - Breast Cancer Patient MRIs
+  - Liver Dataset
+  - Cardiomegaly Disease Prediction Dataset
+- **Pre-trained Model**: VGG16 weights from ImageNet
+
 
  

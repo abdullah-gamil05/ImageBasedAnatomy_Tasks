@@ -3,13 +3,12 @@
 This project is a **Medical Image Multi-Viewer** tool designed to visualize medical images in **axial**, **coronal**, and **sagittal** planes. The application provides a user-friendly interface with features to manipulate image views, adjust brightness and contrast, and zoom into specific regions of interest. The tool supports medical image files in the **NIfTI format (.nii, .nii.gz)**.
 
 ---
-
+ ![Loading Animation](https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/assets/Gif.gif)
 ## Features
 
 - **Multi-Planar Viewing**:
-  - Visualize medical images in axial, coronal, and sagittal planes.  ![Loading Animation](https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task1_MPR/results/demo.gif)
-
-  - Slice navigation using intuitive sliders.
+  - Visualize medical images in axial, coronal, and sagittal planes.
+ - Slice navigation using intuitive sliders.
 
 - **Brightness and Contrast Adjustments**:
   - Fine-tune brightness and contrast for each view independently.

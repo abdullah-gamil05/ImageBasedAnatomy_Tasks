@@ -7,17 +7,17 @@ This task focuses on the development and deployment of an **AI model** capable o
 The project Uses transfer learning with VGG16, the model achieves robust performance with an organized dataset and effective preprocessing.
 
 ---
-
 ## Features
 
 ### Model Training and Evaluation
-- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN ( VGG) for feature extraction.
+- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN ( VGG) for feature extraction.  
 - **Fine-tuning**: Adapts the model to medical image classification.
 - **Performance Metrics**: Provides accuracy, precision, recall, and F1 score for evaluation.
 
 ### GUI Interface
 - **Upload Functionality**: Allows users to upload images for prediction.
 - **Predicted Results**: Displays the predicted organ category with confidence scores.
+<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/assets/prediction1.png" alt="Result 1" width="600" />
 
 ### Scalability
 - Designed for expansion to additional organ categories and datasets.

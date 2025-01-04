@@ -32,11 +32,23 @@ This project is a **Medical Image Multi-Viewer** tool designed to visualize medi
 ### Prerequisites
 - Python 3.8+
 - Required libraries: 
-  - PyQt5
+  - PyQt5 (for GUI implementation)
   - matplotlib
   - SimpleITK
   - numpy
   - Pillow
+    
+ ### Clone the repository:
+
+   ```bash
+   git clone https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/task1_MPR.git
+   ```
+
+### Navigate to the project directory:
+
+   ```bash
+   cd task1_MPR
+   ```
 
 
 ## Usage
@@ -78,13 +90,14 @@ This project is a **Medical Image Multi-Viewer** tool designed to visualize medi
 ## Example Views
 
 ### **Axial View**
-*(Include an example image of the Axial view here)*
+<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/assets/prediction1.png" alt="Result 1" width="600" />
+
 
 ### **Coronal View**
-*(Include an example image of the Coronal view here)*
+<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/assets/prediction1.png" alt="Result 1" width="600" />
 
 ### **Sagittal View**
-*(Include an example image of the Sagittal view here)*
+<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/assets/prediction1.png" alt="Result 1" width="600" />
 
 ---
 
@@ -93,7 +106,7 @@ This project is a **Medical Image Multi-Viewer** tool designed to visualize medi
 1. **Main Components**:
    - **`MultiViewer` class**: Implements the core functionality of the viewer.
    - **Brightness and Contrast Adjustments**:
-     - Image pixel values are normalized, adjusted, and clipped within the range [0, 255].
+     - Image pixel values are normalized, adjusted, and clipped within the rang[0,255].
    - **Zoom Functionality**:
      - Controlled using a slider that dynamically adjusts the viewport dimensions.
 
@@ -112,3 +125,17 @@ This project is a **Medical Image Multi-Viewer** tool designed to visualize medi
 
 - Currently supports only `.nii` and `.nii.gz` file formats.
 - Performance may decrease with very large datasets.
+- 
+---
+
+## Future Enhancements
+
+- Implement oblique plane reconstruction.
+- Add support for real-time 3D rendering.
+- Include tools for basic segmentation and annotation.
+
+---
+
+## Acknowledgements
+- **Libraries**: SimpleITK, Matplotlib, PyQt5
+- **Dataset**: Sample DICOM datasets from [Open Access Medical Imaging](https://www.openaccessimaging.org).

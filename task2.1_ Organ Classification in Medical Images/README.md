@@ -11,7 +11,7 @@ The project Uses transfer learning with VGG16, the model achieves robust perform
 ## Features
 
 ### Model Training and Evaluation
-- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN ( VGG) for feature extraction.
+- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN ( VGG) for feature extraction. ![Alt Text](path/to/image "Optional Title")
 - **Fine-tuning**: Adapts the model to medical image classification.
 - **Performance Metrics**: Provides accuracy, precision, recall, and F1 score for evaluation.
 

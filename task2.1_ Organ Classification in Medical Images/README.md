@@ -7,11 +7,11 @@ This task focuses on the development and deployment of an **AI model** capable o
 The project Uses transfer learning with VGG16, the model achieves robust performance with an organized dataset and effective preprocessing.
 
 ---
-
+![result1](assets/prediction1.png)
 ## Features
 
 ### Model Training and Evaluation
-- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN ( VGG) for feature extraction. ![Alt Text](path/to/image "Optional Title")
+- **Pre-trained Model**: Utilizes a state-of-the-art pre-trained CNN ( VGG) for feature extraction. 
 - **Fine-tuning**: Adapts the model to medical image classification.
 - **Performance Metrics**: Provides accuracy, precision, recall, and F1 score for evaluation.
 

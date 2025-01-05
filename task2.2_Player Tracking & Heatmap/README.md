@@ -74,10 +74,12 @@ This project leverages **YOLO v8** for real-time soccer player detection and tra
 
 ## Example Visuals
 ### 1. Player Tracking
-- Video display with bounding boxes and IDs for tracked players.
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task2.2_Player%20Tracking%20%26%20Heatmap/results/players_tracking.gif" alt="Loading Animation" width="600" height="400">
 
 ### 2. Heatmap Visualization
-- Heatmap overlaid on a soccer field layout.
+<img src="https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/blob/main/task2.2_Player%20Tracking%20%26%20Heatmap/results/heatmap_player1.png" alt="Result 1" width="600" />
+
+
 
 ## Limitations
 - Can track a maximum of 10 players simultaneously.

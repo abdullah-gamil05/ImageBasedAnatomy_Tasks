@@ -1,8 +1,7 @@
 # Image Viewer
 
 ## Overview
-The Pro Image Viewer is a comprehensive desktop application for visualizing, processing, and analyzing images. Developed using **PyQt5** for the user interface and **OpenCV** for image manipulation, it offers a range of features for enhancing image quality and analyzing images effectively.
-
+The Pro Image Viewer is a Python-based tool for visualizing, processing, and analyzing images. It provides a graphical user interface (GUI) built using PyQt5 and offers advanced image manipulation features powered by OpenCV.
 ---
 
 ## Purpose
@@ -23,6 +22,10 @@ This tool is designed for:
    - **Interpolation Methods**: Nearest Neighbor, Linear, Bilinear, Cubic.
    - **Use Case**: Detailed inspection of image regions.
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_View/results/zooming_feature.gif" alt="Zooming Feature" width="500">
+</p>
+
 3. **Brightness and Contrast Adjustment**:
    - **Interactive Sliders**: Real-time control for fine-tuning brightness and contrast.
    - **Implementation**: Uses OpenCV's `convertScaleAbs` function.
@@ -42,8 +45,16 @@ This tool is designed for:
 7. **Histogram Visualization**:
    - **Feature**: Displays pixel intensity distribution for input and processed images.
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_View/results/show_histogram_feature.gif" alt="show_histogram_feature" width="500">
+</p>
+
 8. **Signal-to-Noise Ratio (SNR) and Contrast-to-Noise Ratio (CNR)**:
    - **Feature**: Analyze image quality with user-selected Regions of Interest (ROIs).
+
+<p align="lift">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_View/results/snr&cnr_calculatin.gif" alt="SNR and CNR Calculation" width="500">
+</p>
 
 9. **Undo and Reset**:
    - **Undo**: Reverts the last processing step.

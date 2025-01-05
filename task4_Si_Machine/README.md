@@ -1,5 +1,8 @@
 # Subconscious Imaging (SI) Machine: Breaking Newton’s First Law to Visualize the Hidden Brain
 
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task4_Si_Machine/assets/brain_photons.png" alt="brain_photons" width="600" />
+
+
 ## Overview
 The SI Machine is a groundbreaking approach to visualizing subconscious brain activity by manipulating the behavior of light in unprecedented ways. By "breaking" Newton's First Law of Motion, this technology enables light to bend, pause, and trace neural pathways, offering insights into the brain's subconscious processes such as emotions, memory formation, and decision-making.
 
@@ -25,12 +28,6 @@ The SI Machine builds upon cutting-edge tools and techniques:
 - **Memory Recovery**: Traces neural pathways to assist Alzheimer’s patients with memory reconstruction.
 - **Dream Visualization**: Maps brain activity during sleep for insights into creativity and trauma.
 - **Behavioral Optimization**: Analyzes subconscious decision-making to improve habits and productivity.
-
-## Visuals
-### Photon Manipulation
-![Visualization of photon manipulation showing bending, pausing, and tracing of light through neural pathways.](task4_Si_Machine/assets/brain_photons.png)
-
-<img src="./task4_Si_Machine/assets/brain_photons.png" alt="Photon Manipulation" width="500" />
 
 ## Benefits
 - **Enhanced Depth and Precision**: Achieves imaging capabilities beyond traditional technologies.

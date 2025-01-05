@@ -1,10 +1,15 @@
 # DICOM Viewer
-<img src="task5_Dicom_Viewer/results/gui.png" alt="GUI Overview" width="600">
+<p align="center">
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/gui.png" alt="GUI Overview" width="700">
+</p>
 
 ## Overview
 The **DICOM Viewer** is a professional-grade application designed to load, process, and visualize medical images in DICOM format. It supports 2D, M2D (multi-slice 2D), and 3D images, offering a modern GUI for interactive analysis and advanced features like anonymization and metadata review.
 
 ---
+<p align="left">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_View/results/show_histogram_feature.gif" alt="show_histogram_feature" width="500">
+</p>
 
 ## Features
 
@@ -69,11 +74,11 @@ The **DICOM Viewer** is a professional-grade application designed to load, proce
 ## Example Visualizations
 
 ### 1. 2D Sequential Slices
-<img src="task5_Dicom_Viewer/results/image1.png" alt="2D Slices" width="600">
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/image1.png" alt="2D Slices" width="600">
 ### 2. M2D Tile Display
 <img src="path_to_m2d_tiles.png" alt="M2D Tiles" width="600">
 ### 3. 3D tiles 
-<img src="task5_Dicom_Viewer/results/3d_tiles_view.png" alt="M2D Tiles" width="600">
+<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/3d_tiles_view.png" alt="M2D Tiles" width="600">
 
 ---
 

@@ -1,8 +1,7 @@
 # Image Viewer
 
 ## Overview
-The Pro Image Viewer is a comprehensive desktop application for visualizing, processing, and analyzing images. Developed using **PyQt5** for the user interface and **OpenCV** for image manipulation, it offers a range of features for enhancing image quality and analyzing images effectively.
-
+The Pro Image Viewer is a Python-based tool for visualizing, processing, and analyzing images. It provides a graphical user interface (GUI) built using PyQt5 and offers advanced image manipulation features powered by OpenCV.
 ---
 
 ## Purpose

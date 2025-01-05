@@ -1,0 +1,27 @@
+# Python byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folders
+venv/
+env/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Application configuration files
+config.json
+.env

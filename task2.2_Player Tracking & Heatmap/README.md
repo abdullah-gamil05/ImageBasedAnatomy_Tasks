@@ -12,7 +12,7 @@ This project leverages **YOLO v8** for real-time soccer player detection and tra
   - Dynamically assigns unique IDs to players based on their positions.
   - Tracks up to 10 players with consistent ID assignment.
 
-- **Heatmap Generation**:
+- **Movement Heatmap Generation**:
   - Visualizes player movement on a soccer field.
   - Uses kernel density estimation (KDE) to generate heatmaps for positional density.
 
@@ -20,26 +20,40 @@ This project leverages **YOLO v8** for real-time soccer player detection and tra
   - Built with **Tkinter** and **ttkbootstrap** for an interactive user interface.
   - Features buttons for video selection and per-player heatmap generation.
 
-## Requirements
-### Python Libraries:
+## Prerequisites
+### Tools and Libraries:
+- ` Python 3.8+`
 - `opencv-python`
 - `ultralytics`
 - `numpy`
 - `matplotlib`
 - `seaborn`
 - `ttkbootstrap`
-- `tkinter`
+- `tkinter` (for GUI)
+- `YOLO Pretrained Model (e.g., YOLO v8)`
 
-### Installation:
-```bash
-pip install opencv-python ultralytics numpy matplotlib seaborn ttkbootstrap
-```
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/task2.2_Player Tracking & Heatmap.git
+   cd ImageBasedAnatomy_Tasks
+   ```
+## Input and Output
+### Input
+- Video file of a football match (e.g., `matchclip.mp4`).
+
+### Output
+1. Video with bounding boxes indicating tracked players.
+2. Heatmap image visualizing the selected player's movement patterns.
 
 ### 1. Key Functions:
-- **Select Video**: Load a soccer game video by clicking the "Select Video" button.
-- **Heatmap Generation**:
-  - Click on a player's button (Player 0 to Player 9) to generate and view their heatmap.
-  - The heatmap visualizes the player's movements on a soccer field layout.
+1. **Player Detection**:
+   - Leverages YOLO to identify football players in each video frame.
+2. **Tracking**:
+   - Uses object tracking algorithms to follow players across frames.
+3. **Heatmap Generation**:
+   - Aggregates player positions over time to create a heatmap.
 
 ### 2. Controls:
 - Press `q` to stop video playback.
@@ -80,6 +94,12 @@ pip install opencv-python ultralytics numpy matplotlib seaborn ttkbootstrap
 - **Ultralytics**: For their YOLO implementation.
 - **Seaborn**: For creating KDE-based heatmaps.
 - **Matplotlib**: For GUI visualizations.
+
+## References
+1. YOLO: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+2. OpenCV: [https://opencv.org](https://opencv.org)
+3. Matplotlib: [https://matplotlib.org](https://matplotlib.org)
+
 
 
 

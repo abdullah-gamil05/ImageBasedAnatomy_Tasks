@@ -1,0 +1,4 @@
+pydicom==2.4.1
+numpy==1.24.2
+Pillow==9.5.0
+tkinter==0.1.0  # Note: tkinter is typically pre-installed with Python.

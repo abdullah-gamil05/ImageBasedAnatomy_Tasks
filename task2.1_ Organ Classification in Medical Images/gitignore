@@ -1,0 +1,31 @@
+# Byte-compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Model checkpoints and outputs
+models/checkpoints/
+data/predictions/
+
+# Large datasets
+data/train/
+data/test/

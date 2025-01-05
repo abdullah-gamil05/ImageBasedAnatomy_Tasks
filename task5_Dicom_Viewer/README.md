@@ -1,4 +1,5 @@
 # DICOM Viewer
+<img src="task5_Dicom_Viewer/results/gui.png" alt="GUI Overview" width="600">
 
 ## Overview
 The **DICOM Viewer** is a professional-grade application designed to load, process, and visualize medical images in DICOM format. It supports 2D, M2D (multi-slice 2D), and 3D images, offering a modern GUI for interactive analysis and advanced features like anonymization and metadata review.
@@ -68,13 +69,11 @@ The **DICOM Viewer** is a professional-grade application designed to load, proce
 ## Example Visualizations
 
 ### 1. 2D Sequential Slices
-<img src="path_to_2d_example.gif" alt="2D Slices" width="600">
-
+<img src="task5_Dicom_Viewer/results/image1.png" alt="2D Slices" width="600">
 ### 2. M2D Tile Display
 <img src="path_to_m2d_tiles.png" alt="M2D Tiles" width="600">
-
 ### 3. 3D tiles 
-<img src="path_to_3d_heatmap.png" alt="3D Heatmap" width="600">
+<img src="task5_Dicom_Viewer/results/3d_tiles_view.png" alt="M2D Tiles" width="600">
 
 ---
 

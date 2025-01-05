@@ -28,10 +28,9 @@ The SI Machine builds upon cutting-edge tools and techniques:
 
 ## Visuals
 ### Photon Manipulation
-![Visualization of photon manipulation showing bending, pausing, and tracing of light through neural pathways.](path-to-image)
+![Visualization of photon manipulation showing bending, pausing, and tracing of light through neural pathways.](task4_Si_Machine/assets/brain_photons.png)
 
-### Imaging Depth Comparison
-![Graph comparing traditional imaging techniques with Subconscious Imaging.](path-to-image)
+<img src="./task4_Si_Machine/assets/brain_photons.png" alt="Photon Manipulation" width="500" />
 
 ## Benefits
 - **Enhanced Depth and Precision**: Achieves imaging capabilities beyond traditional technologies.

@@ -23,7 +23,7 @@ This tool is designed for:
    - **Use Case**: Detailed inspection of image regions.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_View/results/zooming_feature.gif" alt="Zooming Feature" width="500">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_Viewer/results/zooming_feature.gif" alt="Zooming Feature" width="500">
 </p>
 
 3. **Brightness and Contrast Adjustment**:
@@ -46,14 +46,14 @@ This tool is designed for:
    - **Feature**: Displays pixel intensity distribution for input and processed images.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_View/results/show_histogram_feature.gif" alt="show_histogram_feature" width="500">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_Viewer/results/show_histogram_feature.gif" alt="show_histogram_feature" width="500">
 </p>
 
 8. **Signal-to-Noise Ratio (SNR) and Contrast-to-Noise Ratio (CNR)**:
    - **Feature**: Analyze image quality with user-selected Regions of Interest (ROIs).
 
 <p align="lift">
-  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_View/results/snr&cnr_calculatin.gif" alt="SNR and CNR Calculation" width="500">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task6_Image_Viewer/results/snr&cnr_calculatin.gif" alt="SNR and CNR Calculation" width="500">
 </p>
 
 9. **Undo and Reset**:

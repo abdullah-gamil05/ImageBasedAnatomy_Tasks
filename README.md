@@ -23,8 +23,8 @@ This repository contains five project tasks that explore concepts related to ima
   - Applied pretrained YOLO AI for player tracking in match videos.  
   - Generated movement heatmaps for individual players.
     
-3. ### **Task 3: 3D Anatomy Organs Puzzle**  
-   **Objective**: Create an interactive puzzle for assembling 3D anatomical organ models.  
+3. ### **Task 3: 3D Anatomy Organs Puzzle Game**  
+   **Objective**: Create an interactive puzzle game using unity for assembling 3D anatomical organ models.  
 - **Features**:  
   - Engaging and educational tool for learning anatomy.  
   - Real-time feedback on correct placements. 

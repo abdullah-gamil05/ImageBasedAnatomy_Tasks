@@ -3,7 +3,11 @@
 ## Overview
 The **3D Anatomy Organs Puzzle** project is an interactive educational tool designed to enhance the understanding of human anatomy. In this task, we focused on creating a 3D puzzle game centered on human teeth. The game allows users to assemble a disassembled model of teeth within a set time limit Successful completion of the puzzle rewards users with a celebratory "You Win" message, while failure to complete in time results in a "You Lose" message, providing hands-on experience with 3D modeling (Blender) and game development (Unity) tools, fostering creativity and problem-solving skills.
 
-<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task3_3D_Puzzle_Game/results/demo_video.gif" alt="demo_video" width="600">
+
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task3_3D_Puzzle_Game/results/demo_video.gif" alt="Sdemo_video" width="800">
+</p>
+
 
 ---
 
